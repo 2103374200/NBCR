@@ -174,7 +174,7 @@ def evaluate(epoch,model, trainloader, criterion):
 
 def train(model, trainloader, criterion,scheduler):
     # 训练循环
-    num_epochs = 12  # 根据需要修改这个值
+    num_epochs = 13  # 根据需要修改这个值
     for epoch in range(num_epochs):
         model.train()
         total_loss = 0
