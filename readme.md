@@ -1,1 +1,1 @@
-code will be upload in the little future
+the model pth can be found huggingface
