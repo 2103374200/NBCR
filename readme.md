@@ -8,19 +8,26 @@ The source code and datasets(both training and testing datasets) can be freely d
 
 # Environment requirements
 Before running, please make sure the following packages are installed in Python environment:
+
 python  3.7.16
-Pillow	9.5.0	10.3.0
-gensim	4.2.0	4.3.2
-h5py	3.8.0	3.11.0
-numpy	1.21.6	2.0.0
-torch	1.13.1	2.3.1
-torchvision	0.14.1	0.18.1
+
+Pillow	9.5.0
+
+gensim	4.2.0
+
+h5py	3.8.0
+
+numpy	1.21.6
+
+torch	1.13.1
+
+torchvision	0.14.1
 
 # RUN
 Changing working dir to NBCR, python resnet.py
 
 
 the model pth can be found [https://huggingface.co/hanyucold/NBCR](https://huggingface.co/hanyucold/NBCR/tree/main)
-![image](https://github.com/2103374200/NBCR/assets/60246005/2808c066-26f4-4543-9058-2af3c6cbdb4c)
+![image](https://github.com/2103374200/NBCR/assets/60246005/02b650d9-0d81-4fc2-88e9-efa7de981d9d)
 
 
