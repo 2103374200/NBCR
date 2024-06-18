@@ -27,6 +27,12 @@ torchvision	0.14.1
 Changing working dir to NBCR, python resnet.py
 
 
+# link
+
+Nucleotide transformer can be found https://huggingface.co/InstaDeepAI/nucleotide-transformer-v2-500m-multi-species
+
+DNABERT2 can be found https://huggingface.co/zhihan1996/DNABERT-2-117M
+
 the model pth can be found [https://huggingface.co/hanyucold/NBCR](https://huggingface.co/hanyucold/NBCR/tree/main)
 ![image](https://github.com/2103374200/NBCR/assets/60246005/02b650d9-0d81-4fc2-88e9-efa7de981d9d)
 
