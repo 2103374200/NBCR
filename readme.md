@@ -9,18 +9,30 @@ The source code and datasets(both training and testing datasets) can be freely d
 # Environment requirements
 Before running, please make sure the following packages are installed in Python environment:
 
-einops==0.8.0
+faiss_gpu==1.7.2
+
 gensim==4.2.0
-mamba_ssm==2.1.0
-mmcv==2.1.0
-mmengine==0.10.4
+
+matplotlib==3.5.3
+
 numpy==1.21.6
+
 pandas==1.3.5
+
+resneSt==0.0.5
+
 scikit_learn==1.0.2
-timm==0.9.12
+
+seaborn==0.13.2
+
+shap==0.42.1
+
 torch==1.13.1
+
 torchvision==0.14.1
+
 tqdm==4.65.2
+
 transformers==4.30.2
 
 
