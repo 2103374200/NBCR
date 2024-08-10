@@ -1,4 +1,4 @@
-# NBCR-ac4C
+# NBCR-ac4C: A Deep Learning Framework Based on Multivariate BERT for Human mRNA N4-acetylcytidine sites Prediction
 
 N4-acetylcytidine (ac4C) plays a crucial role in regulating cellular biological processes, particularly in gene expression regulation and disease development.
 
